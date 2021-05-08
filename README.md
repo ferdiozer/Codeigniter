@@ -18,11 +18,3 @@ RewriteRule .* http://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 ### Support
 [Documentation](https://codeigniter.com/userguide3)
 [For your questions](https://github.com/ferdiozer/Codeigniter/issues)
-
-
-<br/>
-For your questions
-https://github.com/ferdiozer/Codeigniter/issues
-
-E-mail
-[info@ferdiozer.com](https://github.com/ferdiozer/Codeigniter/issues)
