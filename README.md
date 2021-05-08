@@ -3,6 +3,12 @@ You can start developing immediately by cloning it locally or to your server.
 ## For what
 Speeding up and streamlining the development process
 <br/>
+
+### How to use
+`git clone https://github.com/ferdiozer/Codeigniter.git`
+<br/>
+<br/>
+
 If you have an SSL certificate, update the htaccess file as follows
 ```
 RewriteEngine On
@@ -15,6 +21,6 @@ RewriteRule .* http://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 ```
 
 
-### Support
+#### Support
 [Documentation](https://codeigniter.com/userguide3)
 [For your questions](https://github.com/ferdiozer/Codeigniter/issues)
